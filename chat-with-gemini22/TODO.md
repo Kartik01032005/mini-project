@@ -1,0 +1,8 @@
+- [x] Update ChatWithGemini.jsx: Change header from "Chat with Gemini" to "Nova"
+- [x] Update index.html: Change title from "Vite + React" to "Nova"
+- [x] Update package.json: Change name from "gemini-integration" to "nova-chat"
+- [x] Make chat UI full screen by modifying .nova-container in src/index.css
+- [x] Modify sendMessage function to accept a parameter indicating if input is from mic
+- [x] Update startListening to pass mic flag to sendMessage
+- [x] Add text-to-speech for assistant responses when input is from mic
+- [ ] Test the voice functionality
